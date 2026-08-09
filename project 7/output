@@ -1,0 +1,30 @@
+Main program output
+================================
+       DIGITAL STOPWATCH
+================================
+Press ENTER to start
+Press S to stop
+Press R to reset
+Press Q to exit
+================================
+
+Stopwatch started.
+Time: 00:00:01
+Time: 00:00:02
+Time: 00:00:03
+Time: 00:00:04
+Time: 00:00:05
+
+Stopwatch stopped.
+Testbench output
+================================
+    DIGITAL STOPWATCH TESTBENCH
+================================
+Test 1: Initial Time - PASS
+Test 2: Counting Seconds - PASS
+Test 3: Minute Conversion - PASS
+Test 4: Hour Conversion - PASS
+Test 5: Reset - PASS
+================================
+All tests completed.
+================================
